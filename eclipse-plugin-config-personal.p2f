@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='18'>
+    <iu id='com.github.eclipsecolortheme.feature.feature.group' name='Eclipse Color Theme' version='0.12.0.201207240713'>
+      <repositories size='1'>
+        <repository location='http://eclipse-color-theme.github.com/update'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.egit.feature.group' name='Eclipse EGit' version='2.0.0.201206130900-r'>
+      <repositories size='4'>
+        <repository location='http://download.eclipse.org/releases/juno'/>
+        <repository location='http://download.eclipse.org/egit/updates-2.0'/>
+        <repository location='http://marketplace.eclipse.org/repo/'/>
+        <repository location='http://download.eclipse.org/releases/juno/201206270900'/>
+      </repositories>
+    </iu>
+    <iu id='epp.package.jee' name='Eclipse IDE for Java EE Developers' version='1.5.0.20120614-1633'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/juno'/>
+        <repository location='http://marketplace.eclipse.org/repo/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jgit.feature.group' name='Eclipse JGit' version='2.0.0.201206130900-r'>
+      <repositories size='4'>
+        <repository location='http://download.eclipse.org/releases/juno'/>
+        <repository location='http://download.eclipse.org/egit/updates-2.0'/>
+        <repository location='http://marketplace.eclipse.org/repo/'/>
+        <repository location='http://download.eclipse.org/releases/juno/201206270900'/>
+      </repositories>
+    </iu>
+    <iu id='com.xored.glance.feature.group' name='Glance Core' version='1.0.0'>
+      <repositories size='1'>
+        <repository location='http://eclipse-glance.googlecode.com/svn/site/'/>
+      </repositories>
+    </iu>
+    <iu id='com.xored.glance.cvs.feature.group' name='Glance CVS' version='1.0.0'>
+      <repositories size='1'>
+        <repository location='http://eclipse-glance.googlecode.com/svn/site/'/>
+      </repositories>
+    </iu>
+    <iu id='com.xored.glance.gef.feature.group' name='Glance GEF' version='1.0.0'>
+      <repositories size='1'>
+        <repository location='http://eclipse-glance.googlecode.com/svn/site/'/>
+      </repositories>
+    </iu>
+    <iu id='com.musgit.eclipse.grepconsole.feature.group' name='Grep Console' version='2.0.4'>
+      <repositories size='1'>
+        <repository location='http://eclipse.musgit.com'/>
+      </repositories>
+    </iu>
+    <iu id='org.jvmmonitor.feature.group' name='JVM Monitor' version='3.8.0.201205120500'>
+      <repositories size='1'>
+        <repository location='http://www.jvmmonitor.org/updates/3.8'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.m2e.feature.feature.group' name='m2e - Maven Integration for Eclipse' version='1.1.0.20120530-0009'>
+      <repositories size='5'>
+        <repository location='http://download.jboss.org/jbosstools/updates/m2eclipse-wtp/'/>
+        <repository location='http://download.eclipse.org/technology/m2e/releases/1.1/1.1.0.20120530-0009'/>
+        <repository location='http://download.eclipse.org/releases/juno'/>
+        <repository location='http://marketplace.eclipse.org/repo/'/>
+        <repository location='http://download.eclipse.org/releases/juno/201206270900'/>
+      </repositories>
+    </iu>
+    <iu id='org.maven.ide.eclipse.wtp.feature.feature.group' name='Maven Integration for WTP' version='0.15.2.20120306-2040'>
+      <repositories size='2'>
+        <repository location='http://download.jboss.org/jbosstools/updates/m2eclipse-wtp/'/>
+        <repository location='http://download.jboss.org/jbosstools/updates/indigo/SR2/'/>
+      </repositories>
+    </iu>
+    <iu id='org.sonatype.m2e.egit.feature.feature.group' name='Maven SCM Handler for EGit' version='0.14.0.201207010119'>
+      <repositories size='1'>
+        <repository location='http://repository.tesla.io:8081/nexus/content/sites/m2e.extras/m2eclipse-egit/0.14.0/N/0.14.0.20120701011/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mat.feature.feature.group' name='Memory Analyzer' version='1.2.0.201205300858'>
+      <repositories size='4'>
+        <repository location='http://download.eclipse.org/mat/1.2/update-site/'/>
+        <repository location='http://download.eclipse.org/releases/juno'/>
+        <repository location='http://marketplace.eclipse.org/repo/'/>
+        <repository location='http://download.eclipse.org/releases/juno/201206270900'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.mat.chart.feature.feature.group' name='Memory Analyzer (Charts) [optional]' version='1.2.0.201205300858'>
+      <repositories size='4'>
+        <repository location='http://download.eclipse.org/mat/1.2/update-site/'/>
+        <repository location='http://download.eclipse.org/releases/juno'/>
+        <repository location='http://marketplace.eclipse.org/repo/'/>
+        <repository location='http://download.eclipse.org/releases/juno/201206270900'/>
+      </repositories>
+    </iu>
+    <iu id='org.moreunit.mock.feature.group' name='MoreUnit Mock Support (beta)' version='2.4.6'>
+      <repositories size='1'>
+        <repository location='http://moreunit.sourceforge.net/update-site/'/>
+      </repositories>
+    </iu>
+    <iu id='org.moreunit.feature.group' name='MoreUnit Plug-In' version='2.4.6'>
+      <repositories size='1'>
+        <repository location='http://moreunit.sourceforge.net/update-site/'/>
+      </repositories>
+    </iu>
+    <iu id='org.python.pydev.feature.feature.group' name='PyDev for Eclipse' version='2.6.0.2012062818'>
+      <repositories size='1'>
+        <repository location='http://pydev.org/updates'/>
+      </repositories>
+    </iu>
+    <iu id='org.python.pydev.mylyn.feature.feature.group' name='Pydev Mylyn Integration' version='0.4.0'>
+      <repositories size='1'>
+        <repository location='http://pydev.org/updates'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
