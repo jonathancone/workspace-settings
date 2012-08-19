@@ -10,8 +10,8 @@ This project includes the various plugin configurations I use when developing in
 
 The import process is simply the reverse of the export process.
 
-Plugin Configurations
-=====================
+Useful Plugins
+==============
 Here are some must have plugins this configuration includes:
 
 * Eclipse Color Theme
