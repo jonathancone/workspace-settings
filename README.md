@@ -1,16 +1,17 @@
-=Eclipse Plugin Configurations=
-
+Eclipse Plugin Configurations
+=============================
 This project includes the various plugin configurations I use when developing in Eclipse.  Many people don't know that you can import and export your plugin configuration to save time when setting up a new instance of Eclipse.  To do so, follow these steps from within Eclipse:
 
-# Click *File*
-# Click *Export*
-# Choose *Install*
-# Select *Installed Software Items to File*
-# Click *Next*, select the plugins you wish to export and *Finish* the wizard.
+1. Click *File*
+2. Click *Export*
+3. Choose *Install*
+4. Select *Installed Software Items to File*
+5. Click *Next*, select the plugins you wish to export and *Finish* the wizard.
 
 The import process is simply the reverse of the export process.
 
-=Plugin Configurations=
+Plugin Configurations
+=====================
 Here are some must have plugins this configuration includes:
 
 * Eclipse Color Theme
